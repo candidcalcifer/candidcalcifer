@@ -8,5 +8,7 @@ Some things I'm learning right now:
   - GUIs
   - time series analysis and forecasting
 
-[21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
-[![discuss][21]][21]
+  <p align="left">
+    <a href="https://www.linkedin.com/in/serenahe/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </p>
