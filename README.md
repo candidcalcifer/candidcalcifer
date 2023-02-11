@@ -10,5 +10,5 @@ Some things I'm learning right now:
 
   <p align="left">
     <a href="https://www.linkedin.com/in/serenahe/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      <img width=30, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </p>
