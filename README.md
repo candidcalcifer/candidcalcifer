@@ -1,10 +1,8 @@
-# Serena He
+# Hi, I'm Serena
 
 **`Mathematics Specialist @ University of Toronto`**
 
-
-
-I'm studying math and computer science at the University of Toronto and have an interest in quantitative research/development. Currently using python for most of my projects (what we use in school) but I can work in all languages and have experience in C and Java.
+I'm studying math and computer science at the University of Toronto and have an interest in quantitative research/development.
 
 Some things I'm learning right now:
   - GUIs
